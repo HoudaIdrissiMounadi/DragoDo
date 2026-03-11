@@ -31,6 +31,12 @@ Turn your productivity into an adventure — check off quests, watch your egg ha
 
 </div>
 
+## Demo
+
+<p align="center">
+  <img src="screenshots/demo.gif" width="500">
+</p>
+
 ---
 
 # Features
