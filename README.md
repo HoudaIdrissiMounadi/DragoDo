@@ -15,23 +15,7 @@ Turn your productivity into an adventure — check off quests, watch your egg ha
 
 ---
 
-##  App Preview
-
-<div align="center">
-
-|  Stage 1 |  Stage 2 | Stage 3 |
-|:-:|:-:|:-:|
-| <img src="screenshots/dragondo_stage1.png" width="180"/> | <img src="screenshots/dragondo_stage2.png" width="180"/> | <img src="screenshots/dragondo_stage3.png" width="180"/> |
-| **Sleeping Egg** | **Egg Cracking...** | **Shell Breaking!** |
-
-|  Stage 4 | Stage 5 |  Stage 6 |
-|:-:|:-:|:-:|
-| <img src="screenshots/dragondo_stage4.png" width="180"/> | <img src="screenshots/dragondo_stage5.png" width="180"/> | <img src="screenshots/dragondo_stage6.png" width="180"/> |
-| **Hatching!** | **Baby Dragon!** | **Small Dragon!!** |
-
-</div>
-
-## Demo
+# App Preview
 
 <p align="center">
   <img src="screenshots/dragon.gif" width="500">
@@ -49,19 +33,18 @@ Turn your productivity into an adventure — check off quests, watch your egg ha
 -  **Dark theme** — Easy on the eyes, built for focus
 
 ---
+#  How It Works
 
-##  Dragon Evolution Stages
+Each completed task increases your progress.
 
-| Stage | Name | Unlock condition |
-|:-----:|------|-----------------|
-| 1/6 |  Sleeping Egg | Start — egg is dormant |
-| 2/6 |  Egg Cracking... | Complete your first quest |
-| 3/6 |  Shell Breaking! | ~33% of quests done |
-| 4/6 |  Hatching! | ~50% of quests done |
-| 5/6 |  Baby Dragon! | ~83% of quests done |
-| 6/6 |  Small Dragon!! | All quests completed! |
+Progress	Dragon Stage
+0%	Egg
+20%	Egg cracking
+40%	Shell breaking
+60%	Hatching
+80%	Baby dragon
+100%	Small dragon
 
----
 
 # Project Structure
 
@@ -95,14 +78,14 @@ cd dragondo-tdl
 open index.html
 ```
 
-Or just **drag & drop** `index.html` into your browser. That's it! ✅
+Or just **drag & drop** `index.html` into your browser. That's it! 
 
 ---
 
 # How to Play
 
 1. **Add a quest** — Type your task and press `+` or hit `Enter`
-2. **Complete quests** — Check the box next to a task when done ✅
+2. **Complete quests** — Check the box next to a task when done 
 3. **Watch your dragon evolve** — Dragon sprite updates as you progress
 4. **Clear Done** — Remove completed quests to keep your list clean
 5. **Fill the EXP bar** — Complete everything to reach Stage 6!
