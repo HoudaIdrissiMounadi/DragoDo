@@ -1,9 +1,12 @@
 <div align="center">
 
-# 🐉 DragonDo TDL
+# DragonDo TDL
 
 ### *complete quests · grow your dragon*
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **DragonDo** is a gamified to-do list where every completed task evolves your dragon companion.  
 Turn your productivity into an adventure — check off quests, watch your egg hatch, and grow a dragon! 🥚➡️🐉
@@ -12,39 +15,49 @@ Turn your productivity into an adventure — check off quests, watch your egg ha
 
 ---
 
-## 📱 App Preview
+##  App Preview
 
 <div align="center">
+
+|  Stage 1 |  Stage 2 | Stage 3 |
+|:-:|:-:|:-:|
+| <img src="screenshots/dragondo_stage1.png" width="180"/> | <img src="screenshots/dragondo_stage2.png" width="180"/> | <img src="screenshots/dragondo_stage3.png" width="180"/> |
+| **Sleeping Egg** | **Egg Cracking...** | **Shell Breaking!** |
+
+|  Stage 4 | Stage 5 |  Stage 6 |
+|:-:|:-:|:-:|
+| <img src="screenshots/dragondo_stage4.png" width="180"/> | <img src="screenshots/dragondo_stage5.png" width="180"/> | <img src="screenshots/dragondo_stage6.png" width="180"/> |
+| **Hatching!** | **Baby Dragon!** | **Small Dragon!!** |
 
 </div>
 
 ---
 
-## ✨ Features
+# Features
 
-- 📝 **Quest Management** — Add, complete, and clear tasks easily
-- 🐉 **Dragon Evolution** — Your dragon grows through **6 unique stages** as you complete quests
-- ⚡ **EXP Bar** — Visual XP bar tracks your session progress
-- 🎨 **Pixel Art Sprites** — Custom pixel art assets for each dragon stage
-- 💾 **No dependencies** — Pure HTML, CSS & JavaScript, zero frameworks
-- 🌙 **Dark theme** — Easy on the eyes, built for focus
+- **Quest Management** — Add, complete, and clear tasks easily
+- **Dragon Evolution** — Your dragon grows through **6 unique stages** as you complete quests
+-  **EXP Bar** — Visual XP bar tracks your session progress
+-  **Pixel Art Sprites** — Custom pixel art assets for each dragon stage
+-  **No dependencies** — Pure HTML, CSS & JavaScript, zero frameworks
+-  **Dark theme** — Easy on the eyes, built for focus
 
 ---
 
-## 🐣 Dragon Evolution Stages
+##  Dragon Evolution Stages
 
 | Stage | Name | Unlock condition |
 |:-----:|------|-----------------|
-| 1/6 | 🥚 Sleeping Egg | Start — egg is dormant |
-| 2/6 | 🌀 Egg Cracking... | Complete your first quest |
-| 3/6 | 💥 Shell Breaking! | ~33% of quests done |
-| 4/6 | 🐣 Hatching! | ~50% of quests done |
-| 5/6 | 🐲 Baby Dragon! | ~83% of quests done |
-| 6/6 | 🐉 Small Dragon!! | All quests completed! |
+| 1/6 |  Sleeping Egg | Start — egg is dormant |
+| 2/6 |  Egg Cracking... | Complete your first quest |
+| 3/6 |  Shell Breaking! | ~33% of quests done |
+| 4/6 |  Hatching! | ~50% of quests done |
+| 5/6 |  Baby Dragon! | ~83% of quests done |
+| 6/6 |  Small Dragon!! | All quests completed! |
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 DRAGODO/
@@ -63,7 +76,7 @@ DRAGODO/
 
 ---
 
-## 🚀 Getting Started
+# Getting Started
 
 No install needed — it's pure vanilla web!
 
@@ -80,7 +93,7 @@ Or just **drag & drop** `index.html` into your browser. That's it! ✅
 
 ---
 
-## 🎮 How to Play
+# How to Play
 
 1. **Add a quest** — Type your task and press `+` or hit `Enter`
 2. **Complete quests** — Check the box next to a task when done ✅
@@ -92,7 +105,7 @@ Or just **drag & drop** `index.html` into your browser. That's it! ✅
 
 ---
 
-## 🛠️ Tech Stack
+#Tech Stack
 
 | | Technology |
 |-|------------|
@@ -104,7 +117,7 @@ Or just **drag & drop** `index.html` into your browser. That's it! ✅
 
 ---
 
-## 📜 License
+# License
 
 MIT License — feel free to use, modify and share.
 
@@ -114,6 +127,6 @@ MIT License — feel free to use, modify and share.
 
 **◇ keep going, dragon tamer! ◇**
 
-Made with 🐉 and ☕
+
 
 </div>
