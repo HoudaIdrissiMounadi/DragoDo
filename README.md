@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **DragonDo** is a gamified to-do list where every completed task evolves your dragon companion.  
-Turn your productivity into an adventure — check off quests, watch your egg hatch, and grow a dragon! 🥚➡️🐉
+Turn your productivity into an adventure — check off quests, watch your egg hatch, and grow a dragon! 
 
 </div>
 
